@@ -7871,7 +7871,7 @@ li.slick-current .slider-opt04__layout01 .buttons .btn{
     display: inline-block;
     width: 100%;
     height: 710px;
-    background-image: url("../images/home-03/bg_banner_pomotion_org.png");
+    background-image: url("../images/home-03/stayhomee.jpg");
     background-repeat: no-repeat;
     background-size: auto;
     background-position: center top;
@@ -7933,14 +7933,15 @@ li.slick-current .slider-opt04__layout01 .buttons .btn{
 }
 .biolife-banner__promotion2 .media{
     display: inline-block;
-    position: absolute;
+    position: static;
     left: 0;
     bottom: 0;
     z-index: 2;
-    width: 670px;
-    height: 535px;
-    background-image: url(../images/home-03/slomotion_02_bg.png);
+    width: 570px;
+    height: 305px;
+    background-image: url(../images/home-03/slomotion.jpg);
     background-position: center center;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 .biolife-banner__promotion2 .text-content{
